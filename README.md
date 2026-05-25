@@ -85,6 +85,18 @@ NTE-scripts является неофициальным пользователь
 
 <a href="https://github.com/Datvex/NTE-scripts/releases/tag/1.0.0">Скачать Auto-fishing 1.0.0</a>
 
+### 2. SuperSound
+
+<p align="center">
+  <img src="./screenshots/Screenshot_20260525_172201_com.hottagames.nte.jpg" alt="SuperSound" width="700" style="border-radius: 12px;" />
+</p>
+
+**SuperSound** это скрипт для быстрого прохождения уровней в ритм мини-игре **Супер Звук** в NTE.
+
+Скрипт помогает быстрее проходить уровни, автоматизируя повторяющиеся действия во время мини-игры и снижая необходимость постоянного ручного контроля.
+
+<a href="https://github.com/Datvex/NTE-scripts/releases/tag/1.O.O">Скачать SuperSound 1.0.0</a>
+
 ## Рекомендации
 
 Для стабильной работы скриптов рекомендуется:

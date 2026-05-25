@@ -1,77 +1,84 @@
 # NTE-scripts
 
-Подборка скриптов, которые помогают сделать игру в NTE на Android удобнее, быстрее и проще.
-
-NTE-scripts это коллекция различных скриптов, которые упрощают игру в NTE на Android.
-
-Репозиторий создан для хранения полезных решений, заметок и вспомогательных материалов, связанных с Android версией NTE.
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Платформа%2DAndroid%2D3DDC84?style=for%2Dthe%2Dbadge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Приложение%2DMacroify%2D5865F2?style=for%2Dthe%2Dbadge" alt="Macroify" />
-  <img src="https://img.shields.io/badge/Игра%2DNTE%2DFACC15?style=for%2Dthe%2Dbadge" alt="NTE" />
-  <img src="https://img.shields.io/badge/Лицензия%2DGPL%2D%2D3.0%2Dblue?style=for%2Dthe%2Dbadge" alt="GPL 3.0" />
+  🌐
+  <a href="./README.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="./README_RU.md">Русский</a>
 </p>
 
-## Содержание
+A collection of scripts that make playing NTE on Android more convenient, faster, and easier.
 
-1. [Дисклеймер](#дисклеймер)
-2. [Установка](#установка)
-3. [Список скриптов](#список-скриптов)
-4. [Рекомендации](#рекомендации)
-5. [Лицензия](#лицензия)
+NTE-scripts is a collection of different scripts that simplify playing NTE on Android.
 
-## Дисклеймер
+This repository was created to store useful solutions, notes, and supporting materials related to the Android version of NTE.
 
-Материалы в этом репозитории предназначены для ознакомления, личного использования и тестирования.
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform%2DAndroid%2D3DDC84?style=for%2Dthe%2Dbadge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/App%2DMacroify%2D5865F2?style=for%2Dthe%2Dbadge" alt="Macroify" />
+  <img src="https://img.shields.io/badge/Game%2DNTE%2DFACC15?style=for%2Dthe%2Dbadge" alt="NTE" />
+  <img src="https://img.shields.io/badge/License%2DGPL%2D%2D3.0%2Dblue?style=for%2Dthe%2Dbadge" alt="GPL 3.0" />
+</p>
 
-Автор не несет ответственности за возможные последствия использования скриптов. Все действия выполняются пользователем самостоятельно и на свой риск.
+## Contents
 
-NTE-scripts является неофициальным пользовательским проектом и не связан с разработчиками или издателями NTE.
+1. [Disclaimer](#disclaimer)
+2. [Installation](#installation)
+3. [Script list](#script-list)
+4. [Recommendations](#recommendations)
+5. [License](#license)
 
-Использование автоматизации может противоречить правилам игры или условиям использования сервиса. Автор проекта не несет ответственности за возможные ограничения аккаунта, потерю прогресса или другие последствия, связанные с использованием скриптов.
+## Disclaimer
 
-## Установка
+The materials in this repository are intended for informational purposes, personal use, and testing.
 
-1. Скачать Macroify с <a href="https://play.google.com/store/apps/details?id=com.kok_emm.mobile&hl=ru&pli=1">play market</a>.
+The author is not responsible for any possible consequences of using the scripts. All actions are performed by the user independently and at their own risk.
 
-2. Выдать все разрешения Macroify, которые он запрашивает.
+NTE-scripts is an unofficial user project and is not affiliated with the developers or publishers of NTE.
 
-3. Создать новый скрипт и выбрать ему название.
-<br><img src="./installation/Screenshot_20260522_202605.jpg" alt="Создать скрипт" width="600" style="border-radius: 12px;" />
+Using automation may violate the game rules or terms of service. The author of the project is not responsible for possible account restrictions, loss of progress, or any other consequences related to using the scripts.
 
-4. Выбрать горизонтальную ориентацию.
-<br><img src="./installation/Screenshot_20260522_202615.jpg" alt="Ориентация" width="600" style="border-radius: 12px;" />
+## Installation
 
-5. Выбрать название игры "NTE".
-<br><img src="./installation/Screenshot_20260522_202626.jpg" alt="Название игры" width="600" style="border-radius: 12px;" />
+1. Download Macroify from <a href="https://play.google.com/store/apps/details?id=com.kok_emm.mobile&hl=ru&pli=1">Google Play</a>.
 
-6. В главном меню появится наш скрипт, нужно нажать редактировать.
-<br><img src="./installation/Screenshot_20260522_202646.jpg" alt="Редактировать скрипт" width="600" style="border-radius: 12px;" />
+2. Grant all permissions requested by Macroify.
 
-7. Нужно выбрать "многофункциональный" режим.
-<br><img src="./installation/Screenshot_20260522_202714.jpg" alt="Многофункциональный режим" width="600" style="border-radius: 12px;" />
+3. Create a new script and choose a name for it.
+<br><img src="./installation/Screenshot_20260522_202605.jpg" alt="Create script" width="600" style="border-radius: 12px;" />
 
-8. Открыть меню редактора скриптов и нажать на значок ƒ{}.
-<br><img src="./installation/Screenshot_20260522_202854.jpg" alt="Меню редактора" width="600" style="border-radius: 12px;" />
+4. Select landscape orientation.
+<br><img src="./installation/Screenshot_20260522_202615.jpg" alt="Orientation" width="600" style="border-radius: 12px;" />
 
-9. Нажать на второй значок слева "&lt;&gt;".
-<br><img src="./installation/Screenshot_20260522_202900.jpg" alt="Редактор кода" width="600" style="border-radius: 12px;" />
+5. Select the game name "NTE".
+<br><img src="./installation/Screenshot_20260522_202626.jpg" alt="Game name" width="600" style="border-radius: 12px;" />
 
-10. В редакторе кода вставить код скрипта из txt, скачанного из <a href="https://github.com/Datvex/NTE-scripts/releases">releases</a>.
-<br><img src="./installation/Screenshot_20260522_202903.jpg" alt="Вставка кода" width="600" style="border-radius: 12px;" />
+6. The script will appear in the main menu. Tap edit.
+<br><img src="./installation/Screenshot_20260522_202646.jpg" alt="Edit script" width="600" style="border-radius: 12px;" />
 
-11. После вставки кода необходимо нажать значок дискеты в меню управления и затем выйти из редактора кода.
-<br><img src="./installation/Screenshot_20260522_202854.jpg" alt="Сохранение" width="600" style="border-radius: 12px;" />
+7. Select the "multifunctional" mode.
+<br><img src="./installation/Screenshot_20260522_202714.jpg" alt="Multifunctional mode" width="600" style="border-radius: 12px;" />
 
-12. После этого нужно нажать значок крестика в панели управления скриптом и выбрать "Сохранить и выйти".
+8. Open the script editor menu and tap the ƒ{} icon.
+<br><img src="./installation/Screenshot_20260522_202854.jpg" alt="Editor menu" width="600" style="border-radius: 12px;" />
 
-13. После этого нужно нажать кнопку "запуск".
-<br><img src="./installation/Screenshot_20260522_202646.jpg" alt="Запуск" width="600" style="border-radius: 12px;" />
+9. Tap the second icon from the left, "&lt;&gt;".
+<br><img src="./installation/Screenshot_20260522_202900.jpg" alt="Code editor" width="600" style="border-radius: 12px;" />
 
-14. После этого у нас появится меню, нужно зайти в NTE, открыть нужный режим и там уже в меню управления скриптом нажать на иконку треугольника для запуска скрипта.
+10. Paste the script code from the txt file downloaded from <a href="https://github.com/Datvex/NTE-scripts/releases">releases</a>.
+<br><img src="./installation/Screenshot_20260522_202903.jpg" alt="Paste code" width="600" style="border-radius: 12px;" />
 
-## Список скриптов
+11. After pasting the code, tap the save icon in the control menu and then exit the code editor.
+<br><img src="./installation/Screenshot_20260522_202854.jpg" alt="Save" width="600" style="border-radius: 12px;" />
+
+12. Then tap the cross icon in the script control panel and select "Save and exit".
+
+13. After that, tap the "start" button.
+<br><img src="./installation/Screenshot_20260522_202646.jpg" alt="Start" width="600" style="border-radius: 12px;" />
+
+14. A control menu will appear. Open NTE, go to the required mode, and then tap the triangle icon in the script control menu to start the script.
+
+## Script list
 
 ### 1. Auto-fishing
 
@@ -79,11 +86,11 @@ NTE-scripts является неофициальным пользователь
   <img src="./screenshots/IMG_20260525_182957.jpg" alt="Auto-fishing" width="700" style="border-radius: 12px;" />
 </p>
 
-**Auto-fishing** это скрипт автоматизации рыбалки.
+**Auto-fishing** is a fishing automation script.
 
-Скрипт берет на себя повторяющиеся действия во время рыбалки и помогает сделать процесс стабильнее, быстрее и удобнее без постоянного ручного контроля. Он автоматически выполняет основной цикл рыбалки, ожидает реакцию игры, нажимает нужные элементы и повторяет процесс после завершения попытки.
+The script handles repetitive actions during fishing and helps make the process more stable, faster, and more convenient without constant manual control. It automatically performs the main fishing cycle, waits for the game's response, taps the required elements, and repeats the process after each attempt is completed.
 
-<a href="https://github.com/Datvex/NTE-scripts/releases/tag/1.0.0">Скачать Auto-fishing 1.0.0</a>
+<a href="https://github.com/Datvex/NTE-scripts/releases/tag/1.0.0">Download Auto-fishing 1.0.0</a>
 
 ### 2. SuperSound
 
@@ -91,25 +98,25 @@ NTE-scripts является неофициальным пользователь
   <img src="./screenshots/Screenshot_20260525_172201_com.hottagames.nte.jpg" alt="SuperSound" width="700" style="border-radius: 12px;" />
 </p>
 
-**SuperSound** это скрипт для быстрого прохождения уровней в ритм мини-игре **Супер Звук** в NTE.
+**SuperSound** is a script for quickly completing levels in the **Super Sound** rhythm mini-game in NTE.
 
-Скрипт помогает быстрее проходить уровни, автоматизируя повторяющиеся действия во время мини-игры и снижая необходимость постоянного ручного контроля.
+The script helps complete levels faster by automating repetitive actions during the mini-game and reducing the need for constant manual control.
 
-<a href="https://github.com/Datvex/NTE-scripts/releases/tag/1.O.O">Скачать SuperSound 1.0.0</a>
+<a href="https://github.com/Datvex/NTE-scripts/releases/tag/1.O.O">Download SuperSound 1.0.0</a>
 
-## Рекомендации
+## Recommendations
 
-Для стабильной работы скриптов рекомендуется:
+For stable script operation, it is recommended to:
 
-* не менять положение интерфейса во время работы
-* не сворачивать игру
-* отключить всплывающие уведомления
-* использовать стабильное интернет соединение
-* заранее подготовить достаточное количество нужных ресурсов
-* не запускать другие приложения поверх игры
+* do not change the interface position while the script is running
+* do not minimize the game
+* disable pop-up notifications
+* use a stable internet connection
+* prepare enough required resources in advance
+* do not run other apps over the game
 
-## Лицензия
+## License
 
-Проект распространяется под лицензией **GPL 3.0**.
+The project is distributed under the **GPL 3.0** license.
 
-Подробнее смотрите в файле <a href="./LICENSE">LICENSE</a>.
+See the <a href="./LICENSE">LICENSE</a> file for details.
